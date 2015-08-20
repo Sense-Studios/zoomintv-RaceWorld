@@ -13,7 +13,7 @@
     <description>ZoominTV RaceWorld Channel</description>
     <author email="info@zoomin.tv" href="http://zoomin.tv">ZoominTV</author>
 
-    <content src="http://zoomintvraceworld.herokuapp.com/" />
+    <content src="http://zoomintvraceworld.zoomin.tv/" />
     <!-- <content src="http://develop.sense-studios.com:32000" /> -->
     <!-- <content src="http://zoomintvgames-staging.herokuapp.com" /> -->
     <access origin="*" />
