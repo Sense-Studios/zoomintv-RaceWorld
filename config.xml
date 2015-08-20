@@ -52,6 +52,7 @@
     <!-- both -->
     <preference name="SplashScreen" value="splash" />
     <preference name="SplashScreenDelay" value="3000" />
+    <preference name="keepRunning" value="true" />
 
     <!-- icon -->
     <icon src="icon.png"/>
